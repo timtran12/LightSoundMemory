@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](https://github.com/timtran12/LightSoundMemory/blob/main/SimonSays.gif)
 
 
 ## Reflection Questions
